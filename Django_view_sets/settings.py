@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'Django_view_sets.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME':'studentdb_view_sets',
-        'USER':'root',
-        'PASSWORD':'testsql'
+        'NAME':'#database name',
+        'USER':'#database user',
+        'PASSWORD':'#database password'
     }
 }
 
